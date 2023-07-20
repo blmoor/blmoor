@@ -8,20 +8,16 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %}
+{% include feature/jumbotron.html objectid="blmoor129" %}
 
-{% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
+## About the project
 
-## About the Collection
+This website is a testimony to the persistent efforts of the East Oktibbeha County community over the years to support their educational opportunities and successes. Without the endurance and commitment from so many individuals, this story would not have been possible.
 
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
+## Credits
 
-- a CSV of collection metadata
-- a folder of JPG images or PDF documents
+This website is a project of the EAEOCS, lead by Jacqueline Ellis. The images in the collection and much of the research of BL Moor's history comes from her personal collection. Jackie is also in part responsible for writing some of the commemorative text of the site.
 
-The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
+Parker Haley is a graduate of Mississippi State University, and he scanned, compiled, and wrote the text for the site.
 
-For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
-
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
+Scanning equipment, web development, and funding were provided by Deep South DH, a collaboration between Mississippi University for Women and Millsaps College. Funding was also provided by the Mississippi Humanities Council. This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 

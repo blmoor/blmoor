@@ -12,7 +12,7 @@ credits: true
 
 Prior to 1960, several small, community schools educated Black students of all ages in southeast Oktibbeha county. These one-to-two room community church schools included Pleasant Grove, St. Matthews, Austin, Truevine, Pine Grove, Zion Franklin, Mt. Olivet, and Bethel. Various church schools in Oktibbeha county, including Pleasant Grove and Truevine, were built with the help of Julius Rosenwald <!--include hyperlink-->, a Chicago businessman and philanthropist who sympathized with the injustices Black Americans faced. These schools were also affiliated with local churches that provided the appropriate resources and land for the construction of the schoolhouses. 
 
-Rosenwald, alongside Booker T. Washington, found providing schools in the rural south would be one way of giving Blacks a fair chance at equal citizenship, something that would be for the "well-being of mankind," as his charter stated. After the first schoolhouse <!--first schoolhouse in Okt county or anywhere?--> was completed in 1913, Rosenwald went on to spend $4.02 million to build 4,762 Rosenwald schools across the 14 southern states by 1930 before ending his and Washington's "Plan for Erection of Rural Schoolhouses" in 1932. 
+Rosenwald, alongside Booker T. Washington, found providing schools in the rural south would be one way of giving Blacks a fair chance at equal citizenship, something that would be for the "well-being of mankind," as his charter stated. After the first schoolhouse <!--first schoolhouse in Okt county or anywhere?--> was completed in 1913, Rosenwald went on to spend $4.02 million to build 4,762 Rosenwald schools across the 14 southern states by 1930 before ending his and Washington's "Plan for Erection of Rural Schoolhouses" in 1932 [(Hoffschwelle, 2008)](https://mlp.ent.sirsi.net/client/en_US/muw/search/detailnonmodal/ent:$002f$002fSD_ILS$002f0$002fSD_ILS:1113288/ada?rt=CKEY|||CKEY|||false).
 
 <!--add links to Mary S Hoffschwelle, Charles H. Wilson and Scott J. McCormick-->
 
@@ -32,7 +32,7 @@ By 1932, the year of Rosenwald's death, he had built 4,762 schools across the 14
 
 <!--add Hoffschwelle, as well as the Hoffschwelle_Charts.pdf-->
 
-Although Rosenwald had died, Black education in Mississippi continued to thrive with improvement and local involvement. For example, only 32% of Black teachers in Greensboro held a college degree in 1932, but by 1952, all Black teachers held a college degree, with 65% earning a Master's degree. Furthermore, Black colleges doubled their enrollement in 1940s, increasing their income from $8 million in 1930 to $38 million in 1947 (Klarman, <a href="https://www.jstor.org/stable/1073592">"Brown, Racial Change, and the Civil Rights Movement,"</a> p. 66). 
+Although Rosenwald had died, Black education in Mississippi continued to thrive with improvement and local involvement. For example, only 32% of Black teachers in Greensboro held a college degree in 1932, but by 1952, all Black teachers held a college degree, with 65% earning a Master's degree. Furthermore, Black colleges doubled their enrollement in 1940s, increasing their income from $8 million in 1930 to $38 million in 1947 (Klarman, ["Brown, Racial Change, and the Civil Rights Movement,"](https://www.jstor.org/stable/1073592) p. 66). 
 
 <!--see hyperlinked citation above for suggested format of other citations!-->
 

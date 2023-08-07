@@ -65,7 +65,7 @@ The reunions have seen different themes through the years, such as "Born to Soar
 
 To receive information on upcoming reunions, please contact Jacqueline "Jackie" Ellis. <!--need contact info...email address?-->
 
-{% include feature/image.html objectid="blmoor56;blmoor06;blmoor32;blmoor07;blmoor166" width="25" %}
+{% include feature/image.html objectid="blmoor56;blmoor06;blmoor32;blmoor07;blmoor166" width="50" %}
 
 ## Reclaiming Efforts
 

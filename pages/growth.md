@@ -8,7 +8,7 @@ credits: false
 ---
 
 {% include feature/nav-menu.html sections="Julius Rosenwald's Impact;Commitment of Oktibbeha Co. Residents" %}
-{% include feature/jumbotron.html objectid="https://en.wikipedia.org/wiki/Julius_Rosenwald#/media/File:Julius_Rosenwald_02.jpg" text="Portrait of Julius Rosenwald" %}
+{% include feature/jumbotron.html objectid="blmoor128" %}
 
 # Julius Rosenwald's Impact
 

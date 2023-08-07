@@ -1,5 +1,5 @@
 ---
-title: The Legacy
+title: The Legacy of B.L. Moor
 layout: about
 permalink: /legacy.html
 credits: true
@@ -7,6 +7,7 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 {% include feature/nav-menu.html sections="Desegregation;B.L. Moor's Beginnings;School Atmosphere;Campus Life;Reflections" %}
+{% include feature/jumbotron.html objectid="blmoor26" %}
 
 # Desegregation
 

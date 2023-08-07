@@ -16,7 +16,7 @@ Prior to 1960, several small, community schools educated Black students of all a
 
 Rosenwald, alongside Booker T. Washington, found providing schools in the rural south would be one way of giving Blacks a fair chance at equal citizenship, something that would be for the "well-being of mankind," as his charter stated. After the first Rosenwald schoolhouse was completed in Alabama in 1913, Rosenwald went on to spend $4.8 million to construct Rosenwald schools across 14 of the 16 southern states by 1932 when his and Washington's "Plan for Erection of Rural Schoolhouses" ended. (For more, see [Hoffschwelle](https://mlp.ent.sirsi.net/client/en_US/muw/search/detailnonmodal/ent:$002f$002fSD_ILS$002f0$002fSD_ILS:1113288/ada?rt=CKEY|||CKEY|||false), [Wilson](https://mlp.ent.sirsi.net/client/en_US/msstate/search/detailnonmodal/ent:$002f$002fSD_ILS$002f0$002fSD_ILS:1701444/ada?rt=CKEY|||CKEY|||false), and [McCormick's "The Julius Rosenwald Fund"](https://doi.org/10.2307/2292184)).
 
-{% include feature/image.html objectid="blmoor192" width="50" %}
+{% include feature/image.html objectid="blmoor192" %}
 
 # Commitment of Oktibbeha Co. Residents
 

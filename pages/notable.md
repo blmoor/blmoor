@@ -43,7 +43,6 @@ Conley significantly impacted the attitude and accountability of the community, 
 Upon reflection of his career, Conley stated, "One thing I want to make clear - though I have been superintendent for the past 20 years, without the help of the community, none of this would have been possible. It was a team effort."  
 
 {% include feature/pdf.html objectid="blmoor16" width="50" %}
-
 {% include feature/image.html objectid="blmoor94" width="50" %}
 
 ## Ms. Emma Conley

@@ -32,13 +32,15 @@ With the approval of the Oktibbeha County Board of Supervisors, district supervi
 
 The project consisted of laying sod, planting shrubbery, and trees, but additional efforts included removing the area where mobile classrooms once stood and clearing the wooded area along the driveway. With the help of teachers like English teacher Ms. Wright, such projects were intertwined with service learning requirements, allowing students to either receive credit or community service hours for assisting with the project. 
 
-{% include feature/image.html objectid="blmoor04;blmoor11" width="50" %}
+{% include feature/image.html objectid="blmoor04" width="50" %}
+{% include feature/pdf.html objectid="blmoor11" width="50" %}
 
 An ampitheater, or "outdoor classroom," was another project EAEOCS advocated for proceding the arson in 2002. After nearly 6 years of collaboration with school alumni, community partners, the Carl Small Town Center, and Mississippi State College of Architecture, the $110,000 project was completed April 18th, 2008, where EOCHS students, teachers, alumni, county school officials, and community supporters gathered for the ribbon cutting ceremony.
 
 EAEOCS's ampitheater project provided students with unique learning opportunities, helped bridge the gap between merged school entities, and gave EOCHS and the surrounding community a sense of pride and ownership in their school and the education received there. Addiitonally, the project brought together various organizations, programs, and people together "who would not necessarily have come together," said Jim West, the dean of Mississippi State School of Architecture in 2008. 
 
-{% include feature/image.html objectid="blmoor19;blmoor20" width="50" %}
+{% include feature/image.html objectid="blmoor19" width="50" %}
+{% include feature/pdf.html objectid="blmoor20" width="50" %}
 
 # Mississippi Landmark Designation
 

@@ -12,7 +12,7 @@ credits: false
 
 # EAEOCS Projects
 
-EAEOCS's initial objectives came after a suspected arson sparked a fire on EOCHS. These efforts included beautifying the school by improving the landscape and surrounding area. As EAEOCS continued to expand, they began promoting and hosting biennial school reunions, participating in school activities, and aiding students with scholarships. In 2015, the began a laborious journey to establish a communal venue that would provide health education, student resources, historical preservation, etc. for the Oktibbeha county community, but various hinderances stunted their efforts. Despite their unsuccessful attempt to attain such a venue for the community, EAEOCS has still made an everlasting impact on their community, which this section details.
+EAEOCS's initial objectives came after a suspected arson attack on EOCHS in 2002. These efforts included beautifying the school by improving the landscape and surrounding area. As EAEOCS continued to expand, they began promoting and hosting biennial school reunions, participating in school activities, and aiding students with scholarships. In 2015, the began a laborious journey to establish a [communal venue](/ongoing.html) that would provide health education, student resources, historical preservation, etc. for the Oktibbeha county community, but various hinderances stunted their efforts. Despite their unsuccessful attempt to attain such a venue for the community, EAEOCS has still made an everlasting impact on their community, which this section details.
 
 # Landscaping and Ampitheater Outdoor Classroom
 
@@ -20,9 +20,11 @@ After tragic news that arson had damaged B.L. Moor on April 6, 2002, EAEOCS and 
 
 {% include feature/image.html objectid="blmoor190" width="50" %}
 
-Once the Oktibbeha County School Board approved EAEOCS's request to making landscape improvements around the school, EAEOCS organized another fundraiser by hosting a banquet on June 11th, 2004, where alumni of '81 and NFL Hall of Famer Jerry Rice attended guest speaker, recalling the educational "foundation" B.L. Moor gave him. At the completion of EAEOCS's fundraising efforts, Rice donated $30,000 to help kickstart the project, saying it was just his way of repaying gratitude. 
+Once the Oktibbeha County School Board approved EAEOCS's request to making landscape improvements around the school, EAEOCS organized another fundraiser by hosting a banquet on June 11th, 2004, where alumni of '81 and NFL Hall of Famer Jerry Rice attended guest speaker, recalling the educational "foundation" B.L. Moor gave him. At the completion of EAEOCS's fundraising efforts, Rice donated $30,000 to help kickstart the project, saying it was just his way of repaying gratitude.
 
-On June 12th, 2004, a day after the banquet, EAEOCS, with financial assistance from local churches and the local governement, hosted a picnic named "A Village of Fun" at East Oktibbeha County High School (formerly named B.L. Moor). The event brought together 75 B.L. Moor alumni dating back to 1950, as well as contemporary students and administrators to promote community involvement with education. As such, Sharqular Hart was awarded with EAEOCS's first scholarship of $300, and former superintendent [# Dr. Walter Conley] and former principal Albert Williams commented their appreciation for EAEOCS's efforts and outlook. The event also provided food, playground activities, contests, and other forms of entertainement that both alumni and students could enjoy.
+{% include feature/pdf.html objectid="blmoor23" width="50" %}
+
+On June 12th, 2004, a day after the banquet, EAEOCS, with financial assistance from local churches and the local governement, hosted a picnic named "A Village of Fun" at East Oktibbeha County High School (formerly named B.L. Moor). The event brought together 75 B.L. Moor alumni dating back to 1950, as well as contemporary students and administrators to promote community involvement with education. As such, Sharqular Hart was awarded with EAEOCS's first scholarship of $300, and former superintendent [Dr. Walter Conley](/notable.html) and former principal Albert Williams commended EAEOCS's efforts and outlook. The event also provided food, playground activities, contests, and other forms of entertainement that both alumni and students could enjoy.
 
 {% include feature/image.html objectid="blmoor63" %}
 

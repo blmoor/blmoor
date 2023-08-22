@@ -20,7 +20,7 @@ Booker T. Washington, a former slave himself, established the Tuskegee Normal an
 
 By 1900, Mississippi saw roughly 39% of children between the ages 5-14 attending school. The low number can be accreditted to many factors, including the shortage of teachers and child labor. Even though the Hampton-Tuskegee Model produced 2,500 Black educators a year, the yearly demand sat at 7,000. Simultaneously, about 40% of Black children, boys and girls, were required to work, a statistical percentage that was only 15% for White children. 
 
-{% include feature/pdf.html objectid="blmoor203"}
+{% include feature/pdf.html objectid="blmoor203" width="50" %}
 
 While extensive efforts to establish rural schoolhouses across the South began in 1913 with Julius Rosenwald, Mississippi did not have a single public high school for Blacks by 1916. Consequently, 95-97% of the southern Black population was not enrolled in public instituitions. By 1924, little improvement was seen, as only 3 Black public schools has been built. These were located in Vicksburg, Yazoo City, and Mount Bayou. This disparity caught the eyes of many philanthropists, Rosenwald being one. Rosenwald attended a conference in Gulfport, Mississippi discussing southern education made a conscious effort to discuss the development of Black public high schools. Between 1927-1928, Oktibbeha's Pleasant Grove was erected with the help of Rosenwald. 
 
@@ -29,7 +29,7 @@ While extensive efforts to establish rural schoolhouses across the South began i
 # Southeast Oktibbeha Community Schools
 ## Pleseant Grove
 
-<!--error can't figure out{% include feature/image.html objectid="blmoor129;blmoor130" %}-->
+{% include feature/image.html objectid="blmoor129;blmoor130" width="50" %}
 
 Pleasant Grove was a community school that was built between 1927-1928 on a 2 acre body of land adjacent to Pleasant Grove Baptist Church, replacing "New Prospect," a school that had been around since at least 1900. For over 30 years, Pleasant Grove served as the High School for other communities in southeast Oktibbeha county, such as Zion Franklin, Pine Grove, St. Matthew, Turnpike, Mt. Olivet, McGee, Austin, and Bethel, which only educated students until 8th grade. Managed by local trustees and a supervisor who oversaw all community church schools, Pleasant Grove resided just<!--number unknown- will get estimate from Jackie-->a few miles from where B.L. Moor would be constructed years later. 
 

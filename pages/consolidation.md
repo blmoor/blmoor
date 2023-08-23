@@ -1,7 +1,7 @@
 ---
 title: Consolidation 
 layout: about
-permalink: /Consolidation.html
+permalink: /consolidation.html
 credits: true
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
@@ -9,7 +9,7 @@ credits: true
 
 # Consolidation 
 
-The [southeast Oktibbeha Community Schools](/foundations%20(2).md) were initially consildated into B.L. Moor in 1960 and became a constituent of the Oktibbeha County School District. As the chart illustrates, Pleasant Grove and the other community schools were part of a much larger trend throughout the middle of the 20th century, as the total number of public school district between 1931 and 1961 dropped by nearly 100,000 before plateauing; unfortunately, B.L. Moor and EOCHS still faced consolidation in 2002 and 2015. 
+The [southeast Oktibbeha Community Schools](/foundations.html) were initially consolidated into B.L. Moor in 1960 and became a constituent of the Oktibbeha County School District. As the chart illustrates, Pleasant Grove and the other community schools were part of a much larger trend throughout the middle of the 20th century, as the total number of public school district between 1931 and 1961 dropped by nearly 100,000 before plateauing; unfortunately, B.L. Moor and EOCHS still faced consolidation in 2002 and 2015. 
 
 {% include feature/image.html objectid="blmoor132" width="50" %}
 

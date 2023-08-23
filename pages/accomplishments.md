@@ -7,12 +7,10 @@ credits: false
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="blmoor12" %}
+{% include feature/jumbotron.html objectid="blmoor12" heading="EAEOCS Projects" text="Accomplishments, 2015-today" %}
 {% include feature/nav-menu.html sections="Landscaping and Ampitheater Outdoor Classroom;Mississippi Landmark Designation" %}
 
-# EAEOCS Projects
-
-EAEOCS's initial objectives came after a suspected arson attack on EOCHS in 2002. These efforts included beautifying the school by improving the landscape and surrounding area. As EAEOCS continued to expand, they began promoting and hosting biennial school reunions, participating in school activities, and aiding students with scholarships. In 2015, the began a laborious journey to establish a [communal venue](/ongoing.html) that would provide health education, student resources, historical preservation, etc. for the Oktibbeha county community, but various hinderances stunted their efforts. Despite their unsuccessful attempt to attain such a venue for the community, EAEOCS has still made an everlasting impact on their community, which this section details.
+The Education Association of East Oktibbeha County School's (EAEOCS) initial objectives came after a suspected arson attack on EOCHS in 2002. These efforts included beautifying the school by improving the landscape and surrounding area. As EAEOCS continued to expand, they began promoting and hosting biennial school reunions, participating in school activities, and aiding students with scholarships. In 2015, the began a laborious journey to establish a [communal venue](/ongoing.html) that would provide health education, student resources, historical preservation, etc. for the Oktibbeha county community, but various hinderances stunted their efforts. Despite their unsuccessful attempt to attain such a venue for the community, EAEOCS has still made an everlasting impact on their community, which this section details.
 
 # Landscaping and Ampitheater Outdoor Classroom
 

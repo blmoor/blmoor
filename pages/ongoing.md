@@ -6,13 +6,17 @@ credits: true
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 ---
+
+{% include feature/jumbotron.html objectid="blmoor04" %} 
+{% include feature/nav-menu.html sections="Ongoing Efforts;Reclaiming;Reunions" %}
+
 # Ongoing Efforts
 
 The Education Association of East Oktibbeha County Schools (EAEOCS) are still making efforts to remain active in the community, despite the consolidation that occurred in 2015 that brought an end to B.L. Moor. 
 
 To receive information concerning upcoming events, how to help and/or participate in upcoming events, please see the [About EAEOCS](/about-eaeocs.html) page. 
 
-# Reclaiming Efforts
+# Reclaiming
 
 In attempt to fortify themselves as a resource to the community, [EAEOCS](/about-eaeocs.html), on the same day B.L. Moor was officially consolidated - Memorial Day of 2015, decided to advocate for a portion of the existing school building (as seen below) so they could preserve and maintain their history while providing the local community with resources. These resources included educational tutoring and mentoring, health and wellness services, as well as professional development like CV and Resume building. In addition to the educational and career resources, EAEOCS desired a suitable and familiar location where the local community (churches, schools, clubs, etc.) could host gatherings of all types year-round; moreover, sports and recreational events could occur on the property due to the existing fields, furthering their goal to build and strengthen community relationships. As a whole, EAEOCS's effort was expected to provide Oktibbeha County's rural communitiy with resources and services that are limited. 
 
@@ -20,7 +24,7 @@ In attempt to fortify themselves as a resource to the community, [EAEOCS](/about
 
 Within three and a half months of the school's official consolidation, EAEOCS had submitted a proposal to Starkville Oktibbeha County School District (SOCSD) about acquiring the land. Initially, the school attorney replied with contract details of how to acquire the location, but once the proposal for the community center was submitted to the Board of Supervisors (BOS), they and SOCSD worked together to nullify EAEOCS's attempts to acquire the land. In January of 2020, after 5 years of mowing and upkeeping the land with the resources available and permitted, EAEOCS received contradictory messages. EAEOCS representative Willie E. Thomas heard from a school superintendent that the plan appeared optmistic and that they were just waiting for the BOS to act; however, Thomas was told by the BOS just days later that the "deal was off" and instructed to return inquiries to SOCSD. EAEOCS continued to try and contact the SOCSD superintendent but never received a reply. 
 
-On October 3rd, 2020, EAEOCS held a public rally <!--more info. attendance numbers? Location?--> to advocate for the community center, but eight days later, the Starkville Board of Trustees agreed to offer a contract to [Wildlife Dominion, LLC.](https://wildlifedominion.com/) for $136,000. On Novemeber 10, the President of BOS, Joe Williams, contacted EAEOCS and told them their requests for a community center had been denied. EAEOCS immediately contacted the United States Department of Justice (DOJ) to discuss the SOCSD's failure to communicate with them and the overall unequal opportunity to acquire land. DOJ and EAEOCS proposed to share the building with the Wildlife Dominion but mutliple attempts to reach them proved unsuccessful. 
+On October 3rd, 2020, EAEOCS held a public rally<!--more info. attendance numbers? Location?--> to advocate for the community center, but eight days later, the Starkville Board of Trustees agreed to offer a contract to [Wildlife Dominion, LLC.](https://wildlifedominion.com/) for $136,000. On Novemeber 10, the President of BOS, Joe Williams, contacted EAEOCS and told them their requests for a community center had been denied. EAEOCS immediately contacted the United States Department of Justice (DOJ) to discuss the SOCSD's failure to communicate with them and the overall unequal opportunity to acquire land. DOJ and EAEOCS proposed to share the building with the Wildlife Dominion but mutliple attempts to reach them proved unsuccessful. 
 
 On July 6th, 2021, EAEOCS continued to question BOS about the school board's compliance with Mississippi laws<!--law/code in question?-->, but they ended up voting 3-2 for the sale of the property, with the two supervisors in opposition suggesting an opinion from the attorney state general. On July 30th, Mississippi Development Authority (MDA) approved the SOCSD to swap 1699 Moor High Road, Section 16 Land, with Wild Life Dominion's other property, granting the school district financial support. 
 

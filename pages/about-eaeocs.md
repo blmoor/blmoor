@@ -6,7 +6,7 @@ credits: false
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 ---
-{% include feature/jumbotron.html objectid="blmoor166" %}
+{% include feature/jumbotron.html objectid="blmoor166" heading="About EAEOCS" text="Education Association of East Oktibbeha County Schools %}
 
 # Who is EAEOCS?
 

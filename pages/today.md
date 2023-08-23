@@ -7,19 +7,16 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
+{% include feature/jumbotron.html objectid="blmoor166" %}
+
+
 # Today's Efforts
 
 The Education Association of East Oktibbeha County Schools (EAEOCS) continues to remain active in the community despite the consolidation that occurred in 2015 that brought an end to B.L. Moor. 
 
 This page will allow you to find past and upcoming events, ways of helping and/or participating, and contact information for anyone interested. 
 
-# Who is EAEOCS?
-
-The Education Association of East Oktibbeha County Schools became a state registered organization in 2001 whenever 18 B.L. Moor graduates determined there was a need for a group that could improve and aid the school where necessary, including the student's day-to-day lives. Since 2015, EAEOCS has remained active in preserving the school's history and encouraging alumni correspondence and appreciation. The private, non-profit organization designated to help the community has achieved and remained in congruence with all federal eligibility requirements for 20 years and counting. 
-
-The continued successes of this organization are accredited to the alumni's preserverance, dedication, loyalty, and appreciation during and after their educational journeys. 
-
-## EAEOCS Projects and Events
+# EAEOCS Projects and Events
 
 The initial objectives included improving the landscape, creating and hosting biennial school reunions, participating in school activities, aiding students with scholarships, and providing health education for Oktibbeha county communities. 
 

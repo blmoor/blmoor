@@ -2,19 +2,17 @@
 title: Ongoing Efforts
 layout: about
 permalink: /ongoing.html
-credits: true
+credits: false
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="blmoor04" %} 
+{% include feature/jumbotron.html objectid="blmoor04" heading="Ongoing Efforts" text="The Work of the EAEOCS" %} 
 {% include feature/nav-menu.html sections="Ongoing Efforts;Reclaiming;Reunions" %}
-
-# Ongoing Efforts
 
 The Education Association of East Oktibbeha County Schools (EAEOCS) are still making efforts to remain active in the community, despite the consolidation that occurred in 2015 that brought an end to B.L. Moor. 
 
-To receive information concerning upcoming events, how to help and/or participate in upcoming events, please see the [About EAEOCS](/about-eaeocs.html) page. 
+To receive information concerning upcoming events, how to help and/or participate in upcoming events, please see the [About EAEOCS](/about-eaeocs.html) page, or contact Jackie Ellis at [blmoor@gmail.com](mailto:blmoor@gmail.com). 
 
 # Reclaiming
 

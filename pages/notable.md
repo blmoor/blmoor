@@ -7,8 +7,8 @@ credits: false
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="" %}
-{% include feature/nav-menu.html sections="Landscaping and Ampitheater Outdoor Classroom;Mississippi Landmark Designation" %}
+{% include feature/jumbotron.html objectid="blmoor92" heading="Notable Educators and Alumni" text="Honoring those who fortified the BL Moor Legacy" %}
+{% include feature/nav-menu.html sections="B.L. Moor Teachers, Administrators, and Staff;Community School Educators;Notable Alumni" %}
 
 This page is designed to honor those who made Pleasant Grove, B.L. Moor, and other community schools in southeast Oktibbeha a possibility despite the consistent injustices faced during and after segregation, as well as provividing education to countless students who may have otherwise gone without. 
 
@@ -80,6 +80,7 @@ Per former students, Mr. Bus Hill, Mrs. Cora Hill, and Dr. Mary Harrell Mosley w
 # Notable Alumni
 
 ## Jerry Rice
+{% include feature/pdf.html objectid="blmoor103" width="50" %}
 
 Jerry Rice graduated from B.L. Moor in 1980 and attended Mississippi Valley State University in Itta Bena, Mississippi a year later. Rice helped B.L. Moor go undefeated in 1978, allowing them to compete in the North Central Athletic Conference championship.
  
@@ -116,5 +117,7 @@ Rice's comments about B.L. Moor:
 - "This high school really gave so much to me when I was growing up, and the teachers, and all the coaches, the time that was spent to make me into the person that I am today. So, for me to be able to come back [for the banquet], it feels the same way... it's wonderful" - 2004.
 
 ## Jacqueline "Jackie" Ellis
+
+{% include feature/pdf.html objectid="blmoor104" width="50" %}
 
 [Jacqueline "Jackie" Ellis](/about.html), class of '74, has put in tremendous efforts to preserve and propogate the educational history of southeast Oktibbeha county from the early 20th century up until the final consolidation of B.L. Moor in 2015. Ellis currently serves as the EAEOCS president and has accomplished many endeavors that have and will impact the southeast Oktibbeha community's past, present, and future. Her efforts to date include: helping plan reunions, having the historical marker accepted by MDAH, the construction of the ampitheater and courtyard at EOHS, the initiation and manufacturing of this webpage. Ellis also went to great lengths to reclaim section 16 land despite the inability to do so. 

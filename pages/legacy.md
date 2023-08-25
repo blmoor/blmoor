@@ -27,12 +27,11 @@ B.L. Moor's student body, although desegregated, remained entirely Black. A larg
 
 Regardless of the social inequalities, B.L. Moor students were excited about the opening of the school in 1960. They looked forward to indoor toilets, hot meals, the new gymnasium for basketball, and not having to cut wood for heat. **Allen M.S. Landfair** explains the difference, saying, 
 
-{:.alert .alert-green}
-"We had left a three-room church school at Ebenezer Baptist Church where we had oil wood floors, a potbelly heater which was fueled by wood which the boys gathered coal. Our lunches came from a brown bag which we brought from home, so we were delighted to be at a new school with tile floors, brick walls, departmentalized classrooms, and a cafeteria which served hot meals." 
+{% include feature/alert.hmtl text="We had left a three-room church school at Ebenezer Baptist Church where we had oil wood floors, a potbelly heater which was fueled by wood which the boys gathered coal. Our lunches came from a brown bag which we brought from home, so we were delighted to be at a new school with tile floors, brick walls, departmentalized classrooms, and a cafeteria which served hot meals." color="primary" align="center" %}
 
 While there were numerous advantages in the opening of B.L. Moor, there were still areas for improvement, such as transportation, as multiple students still had to walk to school if they were not commuting from Crawford. This original building had numerous classrooms, a home economics department, a business center, a library, and cafeteria. One of the most memorable elements, however, was a hallway that extended a considerable distance and was divided into three sections to accomodate all grades K-12. One student recalls their experience of the new facilities on opening day, saying, 
 
-{% include feature/alert.html text="Can you imagine? The hall was well waxed [and] long. As one stepped inside the front entrance [there] was a huge gymnasium with a sparkling wood-stained basketball court. Behind it was a stage that would be used for general assembly, special programs, or other unique events in the community." color="warning" align="center" %} <!--Still unsure of who said this, I will get in touch with Jackie--> 
+{% include feature/alert.html text="Can you imagine? The hall was well waxed and long. As one stepped inside the front entrance there was a huge gymnasium with a sparkling wood-stained basketball court. Behind it was a stage that would be used for general assembly, special programs, or other unique events in the community." color="secondary" align="center" %} <!--Still unsure of who said this, I will get in touch with Jackie--> 
 
 **Josie Malone Redmond** similarly recalls the new buildings size, remarking, "I remember walking into what appeared to be the largest and most beautiful building I had ever seen." **Ules Young**, class of 1960 - B.L. Moor's first graduating class, also expresses strong emotions at the opening, saying it was like "a whole new world. There were larger classrooms, science labs, typing room, and gymnasium. The principal and secretary each had their own office," while Redmon commented on other "opportunities that did not exist," such as "certified teachers in specialized subject areas" and a student counselor. But the building and its resources were not the only thing that made it special for the students, as **Rosella Harris-Austin** found attending the new school with her friends from Chapel Hill and "riding a new bus, making new friends, and experiencing new teachers" were equally "breathtaking." 
 
@@ -40,13 +39,13 @@ Mr. King served as the first principle and one of the first history teachers, bu
 
 A year after its opening, [E.N. Wicks](/notable.html#en-wicks), after serving as Rock Hill's principal for 6 years and as Alexander High's first principal, took Mr. Kings position at B.L. Moor and became "the face of Moor High School" (Blair), serving as the principal for a total of 20 years between 1961-1981. 
 
-{% include feature/alert.html text="And while B.L. Moor's opening may have felt like a new world, breathtaking, or the beginning of a new era, **Johnny Malone**, as part of Pleasant Grove's last graduating class in '59, said the two schools were like *mother and child. They can separate, but the blood line is forever.*" color="" align="center" %} 
+{% include feature/alert.html text="And while B.L. Moor's opening may have felt like a new world, breathtaking, or the beginning of a new era, **Johnny Malone**, as part of Pleasant Grove's last graduating class in '59, said the two schools were like *mother and child. They can separate, but the blood line is forever.*" color="info" align="center" %} 
 
 # Campus Life
 
 Just as the teachers instilled various skills in students, extracurricular activities provided students with life-applicable characteristics. For example, **Joyce Bell-Collins**, the class of '68, reflects, 
 
-{% include feature/alert.html text="One skill I grasped was to compete, when I excelled at sports at Moor. The demanding work to perform well has been beneficial throughout my life. Competitiveness covers a wide range of skills in everyday life; for example, the desires to achieve, and to make good decisions are traits I inherited." color="" align="center" %}
+{% include feature/alert.html text="One skill I grasped was to compete, when I excelled at sports at Moor. The demanding work to perform well has been beneficial throughout my life. Competitiveness covers a wide range of skills in everyday life; for example, the desires to achieve, and to make good decisions are traits I inherited." color="primary" align="center" %}
 
 Aside from acquiring additional skills, B.L. Moor alummi found extracurriculars and events to encompass a major portion of their high school memories. The establishment of these extracurriculars, however, was particularly meaningful since they were unable to sponsor certain sports prior to 1960. 
 
@@ -152,8 +151,8 @@ While the educators made conscious efforts to make connections with their studen
 
 Beyond the facilities, educators, and classes, alumni remark on the long-lasting effects attending B.L. Moor had on them. **Rosella Harris-Austin**, class of '70, and **Roy Reese**, class of '76, says it helped "mold" and "shape" their character into who they are today. Similarly, **Phyllis Curry-Tate**, class of '74, states, "I live my life based on experiences and principles instilled at Moor High School, and these memories are forever warmly embedded in my heart." 
 
-Reese elabroates on how he see's his alma mater, saying, 
-{% feature/alert.html text="B.L. Moor was more than just a school; it was a place that provided me with an education and fostered lifelong friendships. The years I spent within its halls were transformative, as I learned not only academic subjects but also essential life lessons." color="green" align="center" %}
+Reese elabroates on how he sees his alma mater, saying, 
+{% include feature/alert.html text="B.L. Moor was more than just a school; it was a place that provided me with an education and fostered lifelong friendships. The years I spent within its halls were transformative, as I learned not only academic subjects but also essential life lessons." color="secondary" align="center" %}
 
 **Frank Baker Scott** and **Jacqueline "Jackie" Ellis** both comment on how B.L. Moor produced "greatness" and success that went "beyond Moor." 
 

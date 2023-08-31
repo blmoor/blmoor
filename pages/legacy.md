@@ -17,7 +17,7 @@ Between Governor Hugh's mandate and the construction of B.L. Moor, the Supreme C
 
 {% include feature/image.html objectid="blmoor123" width="50" %}
 
-<!--add page 493 from Brown vs Board Ruling?-->
+<!--add page 493 from Brown vs Board Ruling??-->
 
 B.L. Moor's student body, although desegregated, remained entirely Black. A large part of this was due to White flight, for many southerners remained refractory to legislation, causing 115 new private instituitions to appear in the state, such as Starkville Academy. As the charts show below, private school enrollment in Mississippi nearly tripled between 1967 and 1972. Astoundingly, before the final consolidation of East Oktibbeha County High School (which  B.L. Moor consolidated into in 2002) into Starkville Oktibbeha schools in 2016, the county school was still over 90% Black, while Starkville Academy was well over 90% White (Charles Bolton, [*The Hardest Deal of All*](https://www.worldcat.org/title/86074736); Charles T. Clotfelter, ["Private Schools, Segregation, and the Southern States"](http://www.jstor.org/stable/1493324); [National Center for Education Statistics](https://nces.ed.gov/). Richard Grant, ["Starkville school merger: What went right?"](https://mississippitoday.org/2016/07/19/starkville-school-merger-what-went-right/). 
 

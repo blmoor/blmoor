@@ -14,6 +14,12 @@ credits: true
 
 This website is a testimony to the persistent efforts of the East Oktibbeha County community over the years to support their educational opportunities and successes. Without the endurance and commitment from so many individuals, this story would not have been possible.
 
+In **The Legacy** pages, the history of the school is charted from its [foundations](https://deepsouthdh.github.io/blmoor/foundations.html) as a country school house, to its [growth](https://deepsouthdh.github.io/blmoor/growth.html) prior to federally-mandated integration, to the [legacy](https://deepsouthdh.github.io/blmoor/legacy.html) that class of 1960 left with B.L. Moor High School.
+
+In the **Commemoration** pages, the [accomplishments](https://deepsouthdh.github.io/blmoor/accomplishments.html) of the EAEOCS are highlighted, and the individual contributions of [noteable](https://deepsouthdh.github.io/blmoor/notable.html) alumni, staff, and faculty are shared.
+
+Finally, in the **Today** pages, the lasting effects of [consolidation](https://deepsouthdh.github.io/blmoor/consolidation.html) are recorded, the [ongoing efforts](https://deepsouthdh.github.io/blmoor/ongoing.html) to preserve BL Moor's legacy are listed, and the contact information for contributing to the community efforts of [EAEOCS](https://deepsouthdh.github.io/blmoor/about-eaeocs.html) is shared.
+
 ## Credits
 
 This website is a project of the EAEOCS, lead by Jacqueline Ellis. The images in the collection and much of the research of BL Moor's history comes from her personal collection. Jackie is also in part responsible for writing some of the commemorative text of the site.
